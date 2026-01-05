@@ -33,7 +33,7 @@
 			<h2>^^,</h2>
 		</div>
 		<div class="center" id = "login_div" style="background-color: white">
-			<h3>Admin panel v2</h3>
+			<h3>Admin panel v3</h3>
 			<form id="login_form" action="member.php" method = "post">
 				Username: <input type="text" name="username"><br>
 				Password: <input type="password" name="password"><br>
